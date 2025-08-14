@@ -1,0 +1,68 @@
+C:\Users\thari\Documents\Nethmi\KDU\6th Semester\PDC\GrpcCalculatorServer\obj\Debug\net8.0\GrpcCalculatorServer.csproj.AssemblyReference.cache
+C:\Users\thari\Documents\Nethmi\KDU\6th Semester\PDC\GrpcCalculatorServer\obj\Debug\net8.0\GrpcCalculatorServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thari\Documents\Nethmi\KDU\6th Semester\PDC\GrpcCalculatorServer\obj\Debug\net8.0\GrpcCalculatorServer.AssemblyInfoInputs.cache
+C:\Users\thari\Documents\Nethmi\KDU\6th Semester\PDC\GrpcCalculatorServer\obj\Debug\net8.0\GrpcCalculatorServer.AssemblyInfo.cs
+C:\Users\thari\Documents\Nethmi\KDU\6th Semester\PDC\GrpcCalculatorServer\obj\Debug\net8.0\GrpcCalculatorServer.csproj.CoreCompileInputs.cache
+C:\Users\thari\Documents\Nethmi\KDU\6th Semester\PDC\GrpcCalculatorServer\obj\Debug\net8.0\GrpcCalculatorServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\thari\Documents\Nethmi\KDU\6th Semester\PDC\GrpcCalculatorServer\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\thari\Documents\Nethmi\KDU\6th Semester\PDC\GrpcCalculatorServer\bin\Debug\net8.0\appsettings.json
+C:\Users\thari\Documents\Nethmi\KDU\6th Semester\PDC\GrpcCalculatorServer\bin\Debug\net8.0\GrpcCalculatorServer.exe
+C:\Users\thari\Documents\Nethmi\KDU\6th Semester\PDC\GrpcCalculatorServer\bin\Debug\net8.0\GrpcCalculatorServer.deps.json
+C:\Users\thari\Documents\Nethmi\KDU\6th Semester\PDC\GrpcCalculatorServer\bin\Debug\net8.0\GrpcCalculatorServer.runtimeconfig.json
+C:\Users\thari\Documents\Nethmi\KDU\6th Semester\PDC\GrpcCalculatorServer\bin\Debug\net8.0\GrpcCalculatorServer.dll
+C:\Users\thari\Documents\Nethmi\KDU\6th Semester\PDC\GrpcCalculatorServer\bin\Debug\net8.0\GrpcCalculatorServer.pdb
+C:\Users\thari\Documents\Nethmi\KDU\6th Semester\PDC\GrpcCalculatorServer\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\thari\Documents\Nethmi\KDU\6th Semester\PDC\GrpcCalculatorServer\bin\Debug\net8.0\Grpc.AspNetCore.Server.dll
+C:\Users\thari\Documents\Nethmi\KDU\6th Semester\PDC\GrpcCalculatorServer\bin\Debug\net8.0\Grpc.AspNetCore.Server.ClientFactory.dll
+C:\Users\thari\Documents\Nethmi\KDU\6th Semester\PDC\GrpcCalculatorServer\bin\Debug\net8.0\Grpc.Core.Api.dll
+C:\Users\thari\Documents\Nethmi\KDU\6th Semester\PDC\GrpcCalculatorServer\bin\Debug\net8.0\Grpc.Net.Client.dll
+C:\Users\thari\Documents\Nethmi\KDU\6th Semester\PDC\GrpcCalculatorServer\bin\Debug\net8.0\Grpc.Net.ClientFactory.dll
+C:\Users\thari\Documents\Nethmi\KDU\6th Semester\PDC\GrpcCalculatorServer\bin\Debug\net8.0\Grpc.Net.Common.dll
+C:\Users\thari\Documents\Nethmi\KDU\6th Semester\PDC\GrpcCalculatorServer\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\thari\Documents\Nethmi\KDU\6th Semester\PDC\GrpcCalculatorServer\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\thari\Documents\Nethmi\KDU\6th Semester\PDC\GrpcCalculatorServer\obj\Debug\net8.0\staticwebassets\msbuild.GrpcCalculatorServer.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\thari\Documents\Nethmi\KDU\6th Semester\PDC\GrpcCalculatorServer\obj\Debug\net8.0\staticwebassets\msbuild.build.GrpcCalculatorServer.props
+C:\Users\thari\Documents\Nethmi\KDU\6th Semester\PDC\GrpcCalculatorServer\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.GrpcCalculatorServer.props
+C:\Users\thari\Documents\Nethmi\KDU\6th Semester\PDC\GrpcCalculatorServer\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.GrpcCalculatorServer.props
+C:\Users\thari\Documents\Nethmi\KDU\6th Semester\PDC\GrpcCalculatorServer\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\thari\Documents\Nethmi\KDU\6th Semester\PDC\GrpcCalculatorServer\obj\Debug\net8.0\scopedcss\bundle\GrpcCalculatorServer.styles.css
+C:\Users\thari\Documents\Nethmi\KDU\6th Semester\PDC\GrpcCalculatorServer\obj\Debug\net8.0\GrpcCalculatorServer.csproj.CopyComplete
+C:\Users\thari\Documents\Nethmi\KDU\6th Semester\PDC\GrpcCalculatorServer\obj\Debug\net8.0\GrpcCalculatorServer.dll
+C:\Users\thari\Documents\Nethmi\KDU\6th Semester\PDC\GrpcCalculatorServer\obj\Debug\net8.0\refint\GrpcCalculatorServer.dll
+C:\Users\thari\Documents\Nethmi\KDU\6th Semester\PDC\GrpcCalculatorServer\obj\Debug\net8.0\GrpcCalculatorServer.pdb
+C:\Users\thari\Documents\Nethmi\KDU\6th Semester\PDC\GrpcCalculatorServer\obj\Debug\net8.0\GrpcCalculatorServer.genruntimeconfig.cache
+C:\Users\thari\Documents\Nethmi\KDU\6th Semester\PDC\GrpcCalculatorServer\obj\Debug\net8.0\ref\GrpcCalculatorServer.dll
+C:\Users\thari\Documents\Nethmi\KDU\6th Semester\PDC\Remote Programming\GrpcCalculatorServer\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\thari\Documents\Nethmi\KDU\6th Semester\PDC\Remote Programming\GrpcCalculatorServer\bin\Debug\net8.0\appsettings.json
+C:\Users\thari\Documents\Nethmi\KDU\6th Semester\PDC\Remote Programming\GrpcCalculatorServer\bin\Debug\net8.0\GrpcCalculatorServer.exe
+C:\Users\thari\Documents\Nethmi\KDU\6th Semester\PDC\Remote Programming\GrpcCalculatorServer\bin\Debug\net8.0\GrpcCalculatorServer.deps.json
+C:\Users\thari\Documents\Nethmi\KDU\6th Semester\PDC\Remote Programming\GrpcCalculatorServer\bin\Debug\net8.0\GrpcCalculatorServer.runtimeconfig.json
+C:\Users\thari\Documents\Nethmi\KDU\6th Semester\PDC\Remote Programming\GrpcCalculatorServer\bin\Debug\net8.0\GrpcCalculatorServer.dll
+C:\Users\thari\Documents\Nethmi\KDU\6th Semester\PDC\Remote Programming\GrpcCalculatorServer\bin\Debug\net8.0\GrpcCalculatorServer.pdb
+C:\Users\thari\Documents\Nethmi\KDU\6th Semester\PDC\Remote Programming\GrpcCalculatorServer\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\thari\Documents\Nethmi\KDU\6th Semester\PDC\Remote Programming\GrpcCalculatorServer\bin\Debug\net8.0\Grpc.AspNetCore.Server.dll
+C:\Users\thari\Documents\Nethmi\KDU\6th Semester\PDC\Remote Programming\GrpcCalculatorServer\bin\Debug\net8.0\Grpc.AspNetCore.Server.ClientFactory.dll
+C:\Users\thari\Documents\Nethmi\KDU\6th Semester\PDC\Remote Programming\GrpcCalculatorServer\bin\Debug\net8.0\Grpc.Core.Api.dll
+C:\Users\thari\Documents\Nethmi\KDU\6th Semester\PDC\Remote Programming\GrpcCalculatorServer\bin\Debug\net8.0\Grpc.Net.Client.dll
+C:\Users\thari\Documents\Nethmi\KDU\6th Semester\PDC\Remote Programming\GrpcCalculatorServer\bin\Debug\net8.0\Grpc.Net.ClientFactory.dll
+C:\Users\thari\Documents\Nethmi\KDU\6th Semester\PDC\Remote Programming\GrpcCalculatorServer\bin\Debug\net8.0\Grpc.Net.Common.dll
+C:\Users\thari\Documents\Nethmi\KDU\6th Semester\PDC\Remote Programming\GrpcCalculatorServer\obj\Debug\net8.0\GrpcCalculatorServer.csproj.AssemblyReference.cache
+C:\Users\thari\Documents\Nethmi\KDU\6th Semester\PDC\Remote Programming\GrpcCalculatorServer\obj\Debug\net8.0\GrpcCalculatorServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thari\Documents\Nethmi\KDU\6th Semester\PDC\Remote Programming\GrpcCalculatorServer\obj\Debug\net8.0\GrpcCalculatorServer.AssemblyInfoInputs.cache
+C:\Users\thari\Documents\Nethmi\KDU\6th Semester\PDC\Remote Programming\GrpcCalculatorServer\obj\Debug\net8.0\GrpcCalculatorServer.AssemblyInfo.cs
+C:\Users\thari\Documents\Nethmi\KDU\6th Semester\PDC\Remote Programming\GrpcCalculatorServer\obj\Debug\net8.0\GrpcCalculatorServer.csproj.CoreCompileInputs.cache
+C:\Users\thari\Documents\Nethmi\KDU\6th Semester\PDC\Remote Programming\GrpcCalculatorServer\obj\Debug\net8.0\GrpcCalculatorServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\thari\Documents\Nethmi\KDU\6th Semester\PDC\Remote Programming\GrpcCalculatorServer\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\thari\Documents\Nethmi\KDU\6th Semester\PDC\Remote Programming\GrpcCalculatorServer\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\thari\Documents\Nethmi\KDU\6th Semester\PDC\Remote Programming\GrpcCalculatorServer\obj\Debug\net8.0\staticwebassets\msbuild.GrpcCalculatorServer.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\thari\Documents\Nethmi\KDU\6th Semester\PDC\Remote Programming\GrpcCalculatorServer\obj\Debug\net8.0\staticwebassets\msbuild.build.GrpcCalculatorServer.props
+C:\Users\thari\Documents\Nethmi\KDU\6th Semester\PDC\Remote Programming\GrpcCalculatorServer\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.GrpcCalculatorServer.props
+C:\Users\thari\Documents\Nethmi\KDU\6th Semester\PDC\Remote Programming\GrpcCalculatorServer\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.GrpcCalculatorServer.props
+C:\Users\thari\Documents\Nethmi\KDU\6th Semester\PDC\Remote Programming\GrpcCalculatorServer\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\thari\Documents\Nethmi\KDU\6th Semester\PDC\Remote Programming\GrpcCalculatorServer\obj\Debug\net8.0\scopedcss\bundle\GrpcCalculatorServer.styles.css
+C:\Users\thari\Documents\Nethmi\KDU\6th Semester\PDC\Remote Programming\GrpcCalculatorServer\obj\Debug\net8.0\GrpcCalculatorServer.csproj.CopyComplete
+C:\Users\thari\Documents\Nethmi\KDU\6th Semester\PDC\Remote Programming\GrpcCalculatorServer\obj\Debug\net8.0\GrpcCalculatorServer.dll
+C:\Users\thari\Documents\Nethmi\KDU\6th Semester\PDC\Remote Programming\GrpcCalculatorServer\obj\Debug\net8.0\refint\GrpcCalculatorServer.dll
+C:\Users\thari\Documents\Nethmi\KDU\6th Semester\PDC\Remote Programming\GrpcCalculatorServer\obj\Debug\net8.0\GrpcCalculatorServer.pdb
+C:\Users\thari\Documents\Nethmi\KDU\6th Semester\PDC\Remote Programming\GrpcCalculatorServer\obj\Debug\net8.0\GrpcCalculatorServer.genruntimeconfig.cache
+C:\Users\thari\Documents\Nethmi\KDU\6th Semester\PDC\Remote Programming\GrpcCalculatorServer\obj\Debug\net8.0\ref\GrpcCalculatorServer.dll

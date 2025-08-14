@@ -1,0 +1,9 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\GrpcCalculatorClient",
+    "\\GrpcCalculatorServer"
+  ],
+  "SelectedNode": "\\GrpcCalculatorServer\\Program.cs",
+  "PreviewInSolutionExplorer": false
+}

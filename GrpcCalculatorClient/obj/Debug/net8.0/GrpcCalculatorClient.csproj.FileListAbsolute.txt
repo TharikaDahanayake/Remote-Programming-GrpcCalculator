@@ -1,0 +1,23 @@
+C:\Users\thari\Documents\Nethmi\KDU\6th Semester\PDC\GrpcCalculatorClient\obj\Debug\net8.0\GrpcCalculatorClient.csproj.AssemblyReference.cache
+C:\Users\thari\Documents\Nethmi\KDU\6th Semester\PDC\GrpcCalculatorClient\obj\Debug\net8.0\GrpcCalculatorClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thari\Documents\Nethmi\KDU\6th Semester\PDC\Remote Programming\GrpcCalculatorClient\obj\Debug\net8.0\GrpcCalculatorClient.csproj.AssemblyReference.cache
+C:\Users\thari\Documents\Nethmi\KDU\6th Semester\PDC\Remote Programming\GrpcCalculatorClient\obj\Debug\net8.0\GrpcCalculatorClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thari\Documents\Nethmi\KDU\6th Semester\PDC\Remote Programming\GrpcCalculatorClient\bin\Debug\net8.0\GrpcCalculatorClient.exe
+C:\Users\thari\Documents\Nethmi\KDU\6th Semester\PDC\Remote Programming\GrpcCalculatorClient\bin\Debug\net8.0\GrpcCalculatorClient.deps.json
+C:\Users\thari\Documents\Nethmi\KDU\6th Semester\PDC\Remote Programming\GrpcCalculatorClient\bin\Debug\net8.0\GrpcCalculatorClient.runtimeconfig.json
+C:\Users\thari\Documents\Nethmi\KDU\6th Semester\PDC\Remote Programming\GrpcCalculatorClient\bin\Debug\net8.0\GrpcCalculatorClient.dll
+C:\Users\thari\Documents\Nethmi\KDU\6th Semester\PDC\Remote Programming\GrpcCalculatorClient\bin\Debug\net8.0\GrpcCalculatorClient.pdb
+C:\Users\thari\Documents\Nethmi\KDU\6th Semester\PDC\Remote Programming\GrpcCalculatorClient\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\thari\Documents\Nethmi\KDU\6th Semester\PDC\Remote Programming\GrpcCalculatorClient\bin\Debug\net8.0\Grpc.Core.Api.dll
+C:\Users\thari\Documents\Nethmi\KDU\6th Semester\PDC\Remote Programming\GrpcCalculatorClient\bin\Debug\net8.0\Grpc.Net.Client.dll
+C:\Users\thari\Documents\Nethmi\KDU\6th Semester\PDC\Remote Programming\GrpcCalculatorClient\bin\Debug\net8.0\Grpc.Net.Common.dll
+C:\Users\thari\Documents\Nethmi\KDU\6th Semester\PDC\Remote Programming\GrpcCalculatorClient\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\thari\Documents\Nethmi\KDU\6th Semester\PDC\Remote Programming\GrpcCalculatorClient\obj\Debug\net8.0\GrpcCalculatorClient.AssemblyInfoInputs.cache
+C:\Users\thari\Documents\Nethmi\KDU\6th Semester\PDC\Remote Programming\GrpcCalculatorClient\obj\Debug\net8.0\GrpcCalculatorClient.AssemblyInfo.cs
+C:\Users\thari\Documents\Nethmi\KDU\6th Semester\PDC\Remote Programming\GrpcCalculatorClient\obj\Debug\net8.0\GrpcCalculatorClient.csproj.CoreCompileInputs.cache
+C:\Users\thari\Documents\Nethmi\KDU\6th Semester\PDC\Remote Programming\GrpcCalculatorClient\obj\Debug\net8.0\GrpcCalculatorClient.csproj.CopyComplete
+C:\Users\thari\Documents\Nethmi\KDU\6th Semester\PDC\Remote Programming\GrpcCalculatorClient\obj\Debug\net8.0\GrpcCalculatorClient.dll
+C:\Users\thari\Documents\Nethmi\KDU\6th Semester\PDC\Remote Programming\GrpcCalculatorClient\obj\Debug\net8.0\refint\GrpcCalculatorClient.dll
+C:\Users\thari\Documents\Nethmi\KDU\6th Semester\PDC\Remote Programming\GrpcCalculatorClient\obj\Debug\net8.0\GrpcCalculatorClient.pdb
+C:\Users\thari\Documents\Nethmi\KDU\6th Semester\PDC\Remote Programming\GrpcCalculatorClient\obj\Debug\net8.0\GrpcCalculatorClient.genruntimeconfig.cache
+C:\Users\thari\Documents\Nethmi\KDU\6th Semester\PDC\Remote Programming\GrpcCalculatorClient\obj\Debug\net8.0\ref\GrpcCalculatorClient.dll
